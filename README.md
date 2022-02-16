@@ -2,13 +2,21 @@
 
 ## AIM:
 To write a python program to find the distance two 2 points
-## ALGORITHM:
-### Step 1: 
-### Step 2: 
-### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
-### Step 4: 
-### Step 5: 
+ALGORITHM:
+Step 1:
+import the numpy module to use the built in function for calculation
+
+Step 2:
+prepare the list for each linear equation and assign array in nq.sqrt()
+
+Step 3:
+Substitute the values in the distance formula formula
+
+Step 4:
+end the program
+
+Step 5:
+Then print the values
 ### PROGRAM:
 ```
 x1,x2=10,4
