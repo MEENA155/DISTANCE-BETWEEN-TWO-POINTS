@@ -6,7 +6,8 @@ To write a python program to find the distance two 2 points
 PC
 Anaconda-Python 3.7 installation.
 
-##ALGORITHM:
+## ALGORITHM: 
+
 Step 1:
 Import math function.
 
